@@ -5,7 +5,7 @@ HTML5 CSS3 kullanılarak oluşturduğum ürün kartları.Bu kartlarda ürün fiy
 
 ## Proje 
 
-Projeyi aktif olarak görmek için :[link ](https://sevimaydin.github.io/urun-kartlar/)
+Projeyi aktif olarak görmek için :   [link ](https://sevimaydin.github.io/urun-kartlar/)
 
 
 ### Kullanılan teknolojiler
