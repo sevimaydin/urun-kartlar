@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 #ÜRÜN KARTLARI
 
 HTML5 CSS3 kullanılarak oluşturduğum ürün kartları.Bu kartlarda ürün fiyatları ve açıklamaları yer alıyor.
 
 ## Proje 
 
-Projeyi aktif olarak görmek için :[link ]()
+Projeyi aktif olarak görmek için :[link ](https://sevimaydin.github.io/urun-kartlar/)
 
 
 ### Kullanılan teknolojiler
@@ -16,5 +16,4 @@ HTML CSS
 ![](  ekran.gif )
 =======
 
-# urun-kartlar
->>>>>>> d4a9c1a7ab78934d8aa518fef5c846ed88c9c694
+
