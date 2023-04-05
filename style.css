@@ -7,10 +7,18 @@ section {
   max-width: 1180px;
   margin: 0 auto;
 }
+.baslik {
+  display: flex;
+  justify-content: center;
+}
+.baslik h1 {
+  text-align: center;
+  font-size: 30px;
+}
 
   
 h1 {
-  font-weight: 400;
+  font-weight: 300;
   text-align: center;
   letter-spacing: 0.5rem;
   text-transform: uppercase;
@@ -25,11 +33,11 @@ h1 {
   background: #fff;
   display: flex;
   flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
   justify-content: center;
+  align-items: center;
   padding: 4.8rem 0;
 }
+
 .list > .product {
   width: 200px;
   float: left;
@@ -49,18 +57,15 @@ h1 {
 .product > div {
   text-align: center;
   position: absolute;
-  -webkit-transition: all 0.5s;
-  -o-transition: all 0.5s;
   transition: all 0.5s;
   bottom: 0;
   height: 0;
-  border-radius: 9px;
   overflow: hidden;
   width: 100%;
   margin: 0 auto;
   border-radius: 8px 8px 12px 12px;
-
 }
+
 .product:hover > div {
   position: absolute;
   height: 300px;
@@ -70,13 +75,12 @@ h1 {
   background-color: #eee;
   margin: 0 auto;
   display: block;
-  -webkit-transition: all 0.5s;
-  -o-transition: all 0.5s;
   transition: all 0.5s;
   width: 100%;
   margin-top: 3rem;
   border-radius: 9px;
 }
+
 .product .item3 {
   margin-top: 2.4rem;
 }
@@ -92,7 +96,7 @@ h1 {
   filter: blur(8px);
 }
 .product > div > h2 {
-  border-bottom: 1px solid #818181;
+ 
   padding: 0 0 1rem;
   font-weight: 500;
 }
@@ -116,19 +120,18 @@ h1 {
   font-weight: 400;
   font-size: 1rem;
   line-height: 2.4rem;
-  background: linear-gradient(to right, #d4a4cf, #c6226d);
+  background: linear-gradient(to right, #b6a4e8, #a6e4ff);
   color: #fff;
   position: absolute;
   width: 100%;
   bottom: 0;
-  margin: 0 auto !important;
-  -webkit-transition: all 0.2s;
-  -o-transition: all 0.2s;
+  margin: 0 auto;
   transition: all 0.2s;
 }
+
 .product > div > a > p:hover {
-  filter: brightness(0.9);
-  background: linear-gradient(to right, #b6a4e8, #a6e4ff);
+
+  background: linear-gradient(to right, #FDB813, #FFA300);
   color: #fff;
 }
 .product > div > a > p {
