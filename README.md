@@ -4,7 +4,7 @@
 
 
 ## İçerik  
-- Projeyi aktif olarak görmek için :   [link ](https://sevimaydin.github.io/urun-kartlar/) adresini ziyaret edebilirsiniz.
+- Projeyi aktif olarak görmek için :   [ürün kartları sayfası ](https://sevimaydin.github.io/urun-kartlar/) adresini ziyaret edebilirsiniz.
 - Web sayfasını açtığınızda, ürünlerin resimleri ve fiyatları olan kartları göreceksiniz. Kartların üzerine geldiğinizde gölgelendirme efekti ile ürün fiyatı  belirecektir.
 
 
