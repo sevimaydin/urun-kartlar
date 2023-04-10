@@ -1,5 +1,5 @@
 
-# Basit Ürün Katalogu Web Sayfası
+#  Ürün Katalogu Basit Web Sayfası
 - Bu web sayfası, HTML5 ve CSS3 teknolojilerini kullanarak ürün resimleri ve fiyatlarını içeren kartların yer aldığı basit bir ürün katalogu web sayfasıdır.
 
 
