@@ -1,18 +1,14 @@
 
-# ÜRÜN KARTLARI
-
-HTML5 CSS3 kullanılarak oluşturduğum ürün kartları.Bu kartlarda ürün fiyatları ve açıklamaları yer alıyor.
-
-## Proje 
-
-Projeyi aktif olarak görmek için :   [link ](https://sevimaydin.github.io/urun-kartlar/)
+# Basit Ürün Katalogu Web Sayfası
+- Bu web sayfası, HTML5 ve CSS3 teknolojilerini kullanarak ürün resimleri ve fiyatlarını içeren kartların yer aldığı basit bir ürün katalogu web sayfasıdır.
 
 
-### Kullanılan teknolojiler
+## İçerik  
+- Projeyi aktif olarak görmek için :   [link ](https://sevimaydin.github.io/urun-kartlar/) adresini ziyaret edebilirsiniz.
+- Web sayfasını açtığınızda, ürünlerin resimleri ve fiyatları olan kartları göreceksiniz. Kartların üzerine geldiğinizde gölgelendirme efekti ile ürün fiyatı  belirecektir.
 
-HTML CSS 
 
-### Ön izleme
+#### Ön izleme
 ![](  ekran.gif )
 =======
 
